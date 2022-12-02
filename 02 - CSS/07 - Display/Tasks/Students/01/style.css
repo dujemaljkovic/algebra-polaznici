@@ -5,13 +5,14 @@ body {
 }
 
 p {
-    border: 1px solid rgb(92, 91, 91);
-    padding: 30px;
-    display: inline-block;
-    margin: 0;
-    margin-left: -4px;
-    margin-bottom: 50px;
+
     background-color: aliceblue;
+    border: 1px solid #666;
     box-sizing: border-box;
+    display: inline-block;
     width: 33.33%;
+    padding: 1em;
+    margin-left: -4px;
+    text-align: justify;
+
 }
