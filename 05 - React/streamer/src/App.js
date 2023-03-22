@@ -1,11 +1,9 @@
-import {
-  Effects
-} from './Components';
+import './App.css';
 
 function App() {
   return (
     <div>
-      <Effects />
+      <h1>Ovo je naša APP komponenta</h1>
     </div>
   );
 }
